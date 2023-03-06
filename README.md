@@ -1,15 +1,13 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+##Tutored Project
 
-# Projet tuteuré
+**Materials: Esp32, DHT11 or DHT22, BreadBoard, Jumper wires.
 
-- **Matériaux** : Esp32, DHT11 ou DHT22, BreadBoard,Jumper wires.
-  
-- **Technologies** : React (Front end), Node.js, MongoDB.
-  
-- **IDE** : Arduino, VS Code.
-  
-- **Prototypage** : Fritzing.
-  
+**Technologies: React (Front end), Node.js, MongoDB.
+
+**IDE: Arduino, VS Code.
+
+**Prototyping: Fritzing.
+
 
 ## 1-Business Diagram :
 
